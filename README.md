@@ -1,7 +1,4 @@
 # assign-git
 Kamal Penmetcha
 
-
-"Merge conflicts addressed"
-
-
+"Conflicts addressed" 
